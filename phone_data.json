@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "price": 1099.99,
+    "storage": 128
+  },
+  {
+    "id": 2,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "price": 899.99,
+    "storage": 256
+  },
+  {
+    "id": 3,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "price": 799.99,
+    "storage": 128
+  },
+  {
+    "id": 4,
+    "brand": "OnePlus",
+    "model": "9 Pro",
+    "price": 999.99,
+    "storage": 256
+  },
+  {
+    "id": 5,
+    "brand": "Xiaomi",
+    "model": "Mi 11",
+    "price": 699.99,
+    "storage": 128
+  },
+  {
+    "id": 6,
+    "brand": "Huawei",
+    "model": "P50",
+    "price": 799.99,
+    "storage": 256
+  },
+  {
+    "id": 7,
+    "brand": "Sony",
+    "model": "Xperia 1 III",
+    "price": 1099.99,
+    "storage": 256
+  },
+  {
+    "id": 8,
+    "brand": "LG",
+    "model": "G8 ThinQ",
+    "price": 599.99,
+    "storage": 128
+  },
+  {
+    "id": 9,
+    "brand": "Motorola",
+    "model": "Moto G Power",
+    "price": 249.99,
+    "storage": 64
+  },
+  {
+    "id": 10,
+    "brand": "Nokia",
+    "model": "8.3",
+    "price": 499.99,
+    "storage": 128
+  },
+  {
+    "id": 11,
+    "brand": "ASUS",
+    "model": "ROG Phone 6",
+    "price": 1299.99,
+    "storage": 512
+  },
+  {
+    "id": 12,
+    "brand": "BlackBerry",
+    "model": "KEY3",
+    "price": 699.99,
+    "storage": 128
+  },
+  {
+    "id": 13,
+    "brand": "HTC",
+    "model": "U20 5G",
+    "price": 599.99,
+    "storage": 256
+  },
+  {
+    "id": 14,
+    "brand": "Lenovo",
+    "model": "Legion Phone Duel 2",
+    "price": 1099.99,
+    "storage": 512
+  },
+  {
+    "id": 15,
+    "brand": "Oppo",
+    "model": "Find X5 Pro",
+    "price": 899.99,
+    "storage": 256
+  },
+  {
+    "id": 16,
+    "brand": "Vivo",
+    "model": "X70 Pro",
+    "price": 799.99,
+    "storage": 128
+  },
+  {
+    "id": 17,
+    "brand": "Realme",
+    "model": "GT Neo 2",
+    "price": 449.99,
+    "storage": 128
+  },
+  {
+    "id": 18,
+    "brand": "ZTE",
+    "model": "Axon 30 Ultra",
+    "price": 699.99,
+    "storage": 256
+  },
+  {
+    "id": 19,
+    "brand": "Sharp",
+    "model": "Aquos R6",
+    "price": 999.99,
+    "storage": 512
+  },
+  {
+    "id": 20,
+    "brand": "Alcatel",
+    "model": "3X 2024",
+    "price": 199.99,
+    "storage": 32
+  }
+]
